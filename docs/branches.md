@@ -1,2 +1,1 @@
 main (branche de base), dev (intégration), feature (nouvelles fonctionnalités), hotfix (corrections)
-j'ai choisi git rebase car il permet de mettre a jour directement le dernier commit et qu'il utilise moins de commande que git merge
